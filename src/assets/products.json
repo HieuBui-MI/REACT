@@ -1,0 +1,154 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Burger Gà",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 45.00,
+            "description": "Burger Gà giòn rụm, sốt đặc biệt.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Burger"
+        },
+        {
+            "id": 2,
+            "name": "Burger Tôm",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 50.00,
+            "description": "Burger với nhân tôm chiên giòn.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Burger"
+        },
+        {
+            "id": 3,
+            "name": "Cơm Gà Rán",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 55.00,
+            "description": "Cơm nóng kèm gà rán giòn.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Cơm"
+        },
+        {
+            "id": 4,
+            "name": "Cơm Gà Nướng",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 60.00,
+            "description": "Cơm nóng kèm gà nướng thơm ngon.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Cơm"
+        },
+        {
+            "id": 5,
+            "name": "Gà Rán 1 Miếng",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 35.00,
+            "description": "Một miếng gà rán giòn cay hấp dẫn.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Gà Rán"
+        },
+        {
+            "id": 6,
+            "name": "Gà Rán 2 Miếng",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 65.00,
+            "description": "Hai miếng gà rán giòn cay, đủ cho một bữa ăn thịnh soạn.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Gà Rán"
+        },
+        {
+            "id": 7,
+            "name": "Khoai Tây Chiên",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 25.00,
+            "description": "Khoai tây chiên giòn, thơm ngon.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Ăn Vặt"
+        },
+        {
+            "id": 8,
+            "name": "Mì Ý Gà Viên",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 40.00,
+            "description": "Mì Ý sốt đậm đà kèm gà viên.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Mì"
+        },
+        {
+            "id": 9,
+            "name": "Pepsi Lon",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 20.00,
+            "description": "Pepsi lon 330ml sảng khoái.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Nước Uống"
+        },
+        {
+            "id": 10,
+            "name": "Lipton Chanh",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 25.00,
+            "description": "Lipton chanh mát lạnh.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Nước Uống"
+        },
+        {
+            "id": 11,
+            "name": "Combo 1 Người",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 75.00,
+            "description": "Combo dành cho 1 người gồm gà rán, khoai tây và nước uống.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Combo"
+        },
+        {
+            "id": 12,
+            "name": "Combo 2 Người",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 140.00,
+            "description": "Combo 2 người với gà rán, khoai tây chiên và nước uống.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Combo"
+        },
+        {
+            "id": 13,
+            "name": "Combo Gia Đình",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/MI-Y-GA-VIEN.jpg?v=0.1",
+            "price": 250.00,
+            "description": "Combo gia đình siêu tiết kiệm dành cho cả nhà.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Combo"
+        },
+        {
+            "id": 14,
+            "name": "Gà BBQ",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/D-CBO-Bucket-1.jpg?v=LZYJn3",
+            "price": 75.00,
+            "description": "Gà BBQ sốt đậm đà, thơm ngon.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Gà Rán"
+        },
+        {
+            "id": 15,
+            "name": "Bánh Trứng",
+            "image": "https://static.kfcvietnam.com.vn/images/items/lg/D-CBO-Bucket-1.jpg?v=LZYJn3",
+            "price": 25.00,
+            "description": "Bánh trứng thơm ngon, béo ngậy.",
+            "shop": "KFC",
+            "status": "available",
+            "category": "Tráng Miệng"
+        }
+    ]
+}
